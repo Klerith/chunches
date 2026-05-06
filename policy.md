@@ -11,28 +11,31 @@ Chunches ("the app", "we", "us") is a mobile application designed for families t
 ## 2. Information We Collect
 
 ### 2.1 Information You Provide
+
 - **Account:** name, email address, and password (or credentials from Google or Apple Sign-In).
 - **Profile:** profile photo (optional).
 - **Family content:** shopping lists, items, recipes, ingredients, steps, calendar events, and your family name.
 
 ### 2.2 Automatically Collected Information
+
 - **Usage data:** general app interactions used to detect errors and improve the experience.
 - **Push notification token:** to send you event reminders and family updates (only if you grant permission).
 
 ### 2.3 Optional Integrations
+
 - **Device calendar:** if you authorize it, the app may read and write events to your native calendar. This data is not stored on our servers beyond what is necessary for synchronization.
 
 ---
 
 ## 3. How We Use Your Information
 
-| Purpose | Legal basis |
-|---------|-------------|
-| Create and manage your account | Performance of contract |
+| Purpose                                          | Legal basis             |
+| ------------------------------------------------ | ----------------------- |
+| Create and manage your account                   | Performance of contract |
 | Sync content between family members in real time | Performance of contract |
-| Send push notifications for events and reminders | Consent |
-| Detect and fix technical errors | Legitimate interest |
-| Comply with legal obligations | Legal obligation |
+| Send push notifications for events and reminders | Consent                 |
+| Detect and fix technical errors                  | Legitimate interest     |
+| Comply with legal obligations                    | Legal obligation        |
 
 We do not use your data for advertising and we do not sell it to third parties.
 
@@ -59,6 +62,7 @@ We do not share your personal information with any other third parties.
 ## 6. Data Retention
 
 We retain your information for as long as your account is active. If you delete your account:
+
 - Your profile and personal content are deleted within 30 days.
 - Shared family content (lists, recipes, events) may remain visible to other members until they delete it.
 
@@ -67,6 +71,7 @@ We retain your information for as long as your account is active. If you delete 
 ## 7. Your Rights
 
 Depending on your country of residence, you may have the right to:
+
 - **Access** the data we hold about you.
 - **Correct** inaccurate information.
 - **Delete** your account and associated data.
@@ -93,4 +98,4 @@ We will notify you of significant changes through an in-app notification or by e
 If you have any questions about this policy, please contact us at:
 
 **Fernando Herrera**
-✉️ fernando.herrera85@gmail.com
+✉️ fernando.herrera.apps@gmail.com
